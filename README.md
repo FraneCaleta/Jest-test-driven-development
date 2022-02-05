@@ -10,3 +10,6 @@ Test-driven development can be simply described by the following set of rules (l
 By running npm test, all of the test suites will be executed each time we save a change in our code.
 We can also generate a code coverage page by adding ***--coverage*** command to our jest script:
 ***"test": "jest --watchAll --verbose --coverage"***
+
+
+***Note: Test cases written in Croatian languange.***
