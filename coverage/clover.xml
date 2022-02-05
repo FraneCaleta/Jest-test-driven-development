@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1644100399051" clover="3.2.0">
+  <project timestamp="1644100399052" name="All files">
+    <metrics statements="12" coveredstatements="11" conditionals="4" coveredconditionals="3" methods="5" coveredmethods="5" elements="21" coveredelements="19" complexity="0" loc="12" ncloc="12" packages="1" files="4" classes="4"/>
+    <file name="foo.js" path="C:\Users\Frane_Caleta\Documents\Diplomski_Rad_Frane_Caleta\diplomski-rad\foo.js">
+      <metrics statements="5" coveredstatements="4" conditionals="2" coveredconditionals="1" methods="1" coveredmethods="1"/>
+      <line num="1" count="1" type="stmt"/>
+      <line num="3" count="1" type="cond" truecount="1" falsecount="1"/>
+      <line num="4" count="0" type="stmt"/>
+      <line num="5" count="1" type="stmt"/>
+      <line num="8" count="1" type="stmt"/>
+    </file>
+    <file name="oduzmi.js" path="C:\Users\Frane_Caleta\Documents\Diplomski_Rad_Frane_Caleta\diplomski-rad\oduzmi.js">
+      <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+      <line num="1" count="1" type="stmt"/>
+      <line num="3" count="1" type="stmt"/>
+    </file>
+    <file name="prosjek.js" path="C:\Users\Frane_Caleta\Documents\Diplomski_Rad_Frane_Caleta\diplomski-rad\prosjek.js">
+      <metrics statements="3" coveredstatements="3" conditionals="2" coveredconditionals="2" methods="2" coveredmethods="2"/>
+      <line num="1" count="1" type="stmt"/>
+      <line num="2" count="7" type="cond" truecount="2" falsecount="0"/>
+      <line num="4" count="1" type="stmt"/>
+    </file>
+    <file name="suma.js" path="C:\Users\Frane_Caleta\Documents\Diplomski_Rad_Frane_Caleta\diplomski-rad\suma.js">
+      <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+      <line num="1" count="1" type="stmt"/>
+      <line num="3" count="1" type="stmt"/>
+    </file>
+  </project>
+</coverage>
